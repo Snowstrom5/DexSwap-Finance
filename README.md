@@ -1,5 +1,4 @@
 
-### UniSwap  ETH CC Hackathon 2021 : https://gitcoin.co/issue/unigrants/ugp-hacks/3/100026166
 
 # DexSwap Finance ($DEXS)
 
